@@ -1,0 +1,4 @@
+2025-12-24 17:44:35,665 | INFO | Binance Futures Testnet Bot Initialized
+2025-12-24 17:44:56,074 | INFO | Set leverage 20 for BTCUSDT
+2025-12-24 17:44:56,393 | INFO | BTCUSDT mark price: 87256.00000000
+2025-12-24 17:44:56,694 | INFO | Market Order Success: {'orderId': 11126855289, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'x-Cb7ytekJ4c6d7337e6b056dc25f1c9', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.003', 'executedQty': '0.000', 'cumQty': '0.000', 'cumQuote': '0.00000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1766578496900}
