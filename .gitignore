@@ -7,3 +7,8 @@ __pycache__/*
 instance
 migrations/*
 !migrations/__init__.py
+test-pub-key.pem
+test-prv-key.pem
+.gitignore
+trading_bot.log
+try_1.py
