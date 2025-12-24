@@ -1,0 +1,9 @@
+.history/*
+.env
+.vscode/*
+__pycache__/*
+*.pyc
+.DS_Store
+instance
+migrations/*
+!migrations/__init__.py
